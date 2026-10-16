@@ -1,0 +1,2 @@
+build/*/**
+!build/latex/main.pdf
